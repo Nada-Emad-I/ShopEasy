@@ -81,7 +81,8 @@ namespace ShopEasy
 
             Help.Lazy_LoadProductReviews();
 
-            //OutPut not Contain Review
+            //Output not Contain Review
+
             string Input = Console.ReadLine();
             int CustomerId = int.Parse(Input);
             Help.LoadCustomerDataUsingSplitQueries(CustomerId);
