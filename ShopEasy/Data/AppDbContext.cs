@@ -15,6 +15,11 @@ namespace ShopEasy.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
+
+
+            modelBuilder.HasSequence<int>("DiscountSeq", "shop")
+                .StartsAt(1000)
+                .IncrementsBy(1);
         }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<CustomerProfile> CustomerProfiles { get; set; }

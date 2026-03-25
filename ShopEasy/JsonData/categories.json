@@ -1,0 +1,122 @@
+[
+  {
+    "CategoryId": 1,
+    "Name": "Electronics",
+    "Slug": "electronics",
+    "ParentCategoryId": null
+  },
+  {
+    "CategoryId": 2,
+    "Name": "Mobile Phones",
+    "Slug": "mobile-phones",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 3,
+    "Name": "Laptops",
+    "Slug": "laptops",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 4,
+    "Name": "Tablets",
+    "Slug": "tablets",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 5,
+    "Name": "Audio & Headphones",
+    "Slug": "audio-headphones",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 6,
+    "Name": "Cameras",
+    "Slug": "cameras",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 7,
+    "Name": "Smart Watches",
+    "Slug": "smart-watches",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 8,
+    "Name": "TV & Displays",
+    "Slug": "tv-displays",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 9,
+    "Name": "Gaming",
+    "Slug": "gaming",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 10,
+    "Name": "Networking",
+    "Slug": "networking",
+    "ParentCategoryId": 1
+  },
+  {
+    "CategoryId": 11,
+    "Name": "Clothing",
+    "Slug": "clothing",
+    "ParentCategoryId": null
+  },
+  {
+    "CategoryId": 12,
+    "Name": "Mens Wear",
+    "Slug": "mens-wear",
+    "ParentCategoryId": 11
+  },
+  {
+    "CategoryId": 13,
+    "Name": "Womens Wear",
+    "Slug": "womens-wear",
+    "ParentCategoryId": 11
+  },
+  {
+    "CategoryId": 14,
+    "Name": "Kids Clothing",
+    "Slug": "kids-clothing",
+    "ParentCategoryId": 11
+  },
+  {
+    "CategoryId": 15,
+    "Name": "Sportswear",
+    "Slug": "sportswear",
+    "ParentCategoryId": 11
+  },
+  {
+    "CategoryId": 16,
+    "Name": "Home & Living",
+    "Slug": "home-living",
+    "ParentCategoryId": null
+  },
+  {
+    "CategoryId": 17,
+    "Name": "Furniture",
+    "Slug": "furniture",
+    "ParentCategoryId": 16
+  },
+  {
+    "CategoryId": 18,
+    "Name": "Kitchen",
+    "Slug": "kitchen",
+    "ParentCategoryId": 16
+  },
+  {
+    "CategoryId": 19,
+    "Name": "Books",
+    "Slug": "books",
+    "ParentCategoryId": null
+  },
+  {
+    "CategoryId": 20,
+    "Name": "Sports & Outdoors",
+    "Slug": "sports-outdoors",
+    "ParentCategoryId": null
+  }
+]

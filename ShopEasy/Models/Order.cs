@@ -19,7 +19,7 @@ namespace ShopEasy.Models
         public int CustomerId { get; set; }
         public OrderStatus Status { get; set; }
         public decimal TotalAmount { get; set; }
-        public DateTime PlacedAt { get; set; }
+        public DateTime? PlacedAt { get; set; }
         public DateTime? ShippedAt { get; set; }
 
         

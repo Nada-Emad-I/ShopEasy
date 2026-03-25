@@ -1,0 +1,82 @@
+[
+  {
+    "TagId": 1,
+    "Name": "New Arrival"
+  },
+  {
+    "TagId": 2,
+    "Name": "Best Seller"
+  },
+  {
+    "TagId": 3,
+    "Name": "On Sale"
+  },
+  {
+    "TagId": 4,
+    "Name": "Limited Stock"
+  },
+  {
+    "TagId": 5,
+    "Name": "Trending"
+  },
+  {
+    "TagId": 6,
+    "Name": "Premium"
+  },
+  {
+    "TagId": 7,
+    "Name": "Budget Pick"
+  },
+  {
+    "TagId": 8,
+    "Name": "Eco-Friendly"
+  },
+  {
+    "TagId": 9,
+    "Name": "Imported"
+  },
+  {
+    "TagId": 10,
+    "Name": "Local Brand"
+  },
+  {
+    "TagId": 11,
+    "Name": "Wireless"
+  },
+  {
+    "TagId": 12,
+    "Name": "Fast Charging"
+  },
+  {
+    "TagId": 13,
+    "Name": "Waterproof"
+  },
+  {
+    "TagId": 14,
+    "Name": "Gaming"
+  },
+  {
+    "TagId": 15,
+    "Name": "Professional"
+  },
+  {
+    "TagId": 16,
+    "Name": "Student Pick"
+  },
+  {
+    "TagId": 17,
+    "Name": "Office Use"
+  },
+  {
+    "TagId": 18,
+    "Name": "Gift Idea"
+  },
+  {
+    "TagId": 19,
+    "Name": "Refurbished"
+  },
+  {
+    "TagId": 20,
+    "Name": "Bundle Deal"
+  }
+]

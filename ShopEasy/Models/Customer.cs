@@ -12,8 +12,8 @@ namespace ShopEasy.Models
         public string? PhoneNumber { get; set; }
         public DateTime CreatedAt { get; set; }
 
-        
-        public CustomerProfile? Profile { get; set; }
+
+        public CustomerProfile? Profile { get; set; } 
         public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
         public virtual ICollection<Review> Reviews { get; set; } = new List<Review>();
     }
